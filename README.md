@@ -48,3 +48,6 @@ conditions.
 
 ## 10. Every Step Counts
 - **10.5**: Arduino code to read Yaw from MPU6050 sensor.
+
+## 11. Party!
+- **13.3**: It includes a README File summarize what I have learned in the task and comparison between implementation the **Neural Network** from scratch and by using PyTorch. Also, it includes 2 files of Python code, one is to build a Neural Network from scratch and the another one is to build it using PyTorch 
